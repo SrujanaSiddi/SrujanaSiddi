@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything I can do
 - 📫 How to reach me @srujanasiddi@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: she/her
 
 <!---
 SrujanaSiddi/SrujanaSiddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
